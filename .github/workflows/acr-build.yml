@@ -28,6 +28,8 @@ jobs:
           context: ./QuiperTracker/QuiperTracker
           file: ./QuiperTracker/QuiperTracker/Dockerfile
           push: true
+          build-args: |
+            ConnectionStrings__DefaultConnection=${{ secrets.DEFAULT_CONNECTION }}
           tags: ${{ secrets.ACR_LOGIN_SERVER }}/quiper-api:latest
 
       - name: Build and push Web image
