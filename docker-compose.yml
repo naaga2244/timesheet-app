@@ -1,0 +1,23 @@
+services:
+  api:
+    image: quiperapp-fwfzhnaceehqbaa9.azurecr.io/quiper-api:latest
+    ports:
+      - "7100:80"
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+      - ASPNETCORE_ENVIRONMENT=Production
+    networks:
+      - quiper
+
+  web:
+    image: quiperapp-fwfzhnaceehqbaa9.azurecr.io/quiper-web:latest
+    ports:
+      - "3030:3030"
+    depends_on:
+      - api
+    networks:
+      - quiper
+
+networks:
+  quiper:
+    driver: bridge

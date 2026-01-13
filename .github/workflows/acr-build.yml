@@ -1,0 +1,41 @@
+name: Build and Push React + .NET Images to ACR
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Login to Azure Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ secrets.ACR_LOGIN_SERVER }}
+          username: ${{ secrets.ACR_USERNAME }}
+          password: ${{ secrets.ACR_PASSWORD }}
+
+      - name: Build and push API image
+        uses: docker/build-push-action@v5
+        with:
+          context: ./QuiperTracker/QuiperTracker
+          file: ./QuiperTracker/QuiperTracker/Dockerfile
+          push: true
+          tags: ${{ secrets.ACR_LOGIN_SERVER }}/quiper-api:latest
+
+      - name: Build and push Web image
+        uses: docker/build-push-action@v5
+        with:
+          context: ./quiper-grid
+          file: ./quiper-grid/Dockerfile
+          push: true
+          build-args: |
+            REACT_APP_API_URL=${{ secrets.REACT_APP_API_URL }}
+          tags: ${{ secrets.ACR_LOGIN_SERVER }}/quiper-web:latest

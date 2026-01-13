@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|d:\\fronntend\\egprojects\\quipertracker\\quipertracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|solutionrelative:quipertracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|d:\\fronntend\\egprojects\\quipertracker\\quipertracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|solutionrelative:quipertracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|d:\\fronntend\\egprojects\\quipertracker\\quipertracker\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|solutionrelative:quipertracker\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|d:\\fronntend\\egprojects\\quipertracker\\quipertracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|solutionrelative:quipertracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|d:\\fronntend\\egprojects\\quipertracker\\quipertracker\\services\\loginauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|solutionrelative:quipertracker\\services\\loginauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|d:\\fronntend\\egprojects\\quipertracker\\quipertracker\\data\\quipertrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|solutionrelative:quipertracker\\data\\quipertrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|d:\\fronntend\\egprojects\\quipertracker\\quipertracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|solutionrelative:quipertracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|d:\\fronntend\\egprojects\\quipertracker\\quipertracker\\decrypt\\configurationprotector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|solutionrelative:quipertracker\\decrypt\\configurationprotector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|d:\\fronntend\\egprojects\\quipertracker\\quipertracker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|solutionrelative:quipertracker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|d:\\fronntend\\egprojects\\quipertracker\\quipertracker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D76C22-279F-42FB-9EBE-1BA2ED4C543E}|QuiperTracker\\QuiperTracker.csproj|solutionrelative:quipertracker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "QuiperTracker\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "QuiperTracker\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:50:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "QuiperTracker\\appsettings.json",
+              "ToolTip": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\appsettings.json",
+              "RelativeToolTip": "QuiperTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T10:50:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QuiperTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QuiperTracker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAgwOEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:50:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Program.cs",
+              "RelativeDocumentMoniker": "QuiperTracker\\Program.cs",
+              "ToolTip": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Program.cs",
+              "RelativeToolTip": "QuiperTracker\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:50:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginAuditService.cs",
+              "DocumentMoniker": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Services\\LoginAuditService.cs",
+              "RelativeDocumentMoniker": "QuiperTracker\\Services\\LoginAuditService.cs",
+              "ToolTip": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Services\\LoginAuditService.cs",
+              "RelativeToolTip": "QuiperTracker\\Services\\LoginAuditService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:24:32.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigurationProtector.cs",
+              "DocumentMoniker": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Decrypt\\ConfigurationProtector.cs",
+              "RelativeDocumentMoniker": "QuiperTracker\\Decrypt\\ConfigurationProtector.cs",
+              "ToolTip": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Decrypt\\ConfigurationProtector.cs",
+              "RelativeToolTip": "QuiperTracker\\Decrypt\\ConfigurationProtector.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:19:31.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuiperTrackerContext.cs",
+              "DocumentMoniker": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Data\\QuiperTrackerContext.cs",
+              "RelativeDocumentMoniker": "QuiperTracker\\Data\\QuiperTrackerContext.cs",
+              "ToolTip": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Data\\QuiperTrackerContext.cs",
+              "RelativeToolTip": "QuiperTracker\\Data\\QuiperTrackerContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:50:16.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QuiperTracker\\Models\\User.cs",
+              "ToolTip": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Models\\User.cs",
+              "RelativeToolTip": "QuiperTracker\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:44:21.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuiperTracker\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuiperTracker\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T13:04:28.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QuiperTracker\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\FronntEnd\\Egprojects\\QuiperTracker\\QuiperTracker\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QuiperTracker\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T10:50:16.655Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
