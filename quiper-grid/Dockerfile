@@ -15,3 +15,4 @@ RUN npm i -g serve
 COPY --from=build /app/build ./build
 EXPOSE 3030
 CMD ["serve", "-s", "build", "-l", "3030"]
+
