@@ -6,6 +6,8 @@ RUN dotnet publish -c Release -o /app/publish
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
+ARG ConnectionStrings__DefaultConnection
+ENV ConnectionStrings__DefaultConnection=$ConnectionStrings__DefaultConnection
 COPY --from=build /app/publish .
 EXPOSE 80
 ENTRYPOINT ["dotnet", "QuiperTracker.dll"]
